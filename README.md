@@ -10,6 +10,7 @@
 [![PostgreSQL](https://img.shields.io/badge/DB-Neon_PostgreSQL-00E599.svg)](https://neon.tech)
 [![DeepSeek](https://img.shields.io/badge/AI-DeepSeek-536DFE.svg)](https://deepseek.com)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-FF4B4B?logo=streamlit)](https://citysight-hyg6zmbwk3hvq4be2b4byp.streamlit.app)
 
 ---
 
