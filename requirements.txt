@@ -1,0 +1,9 @@
+streamlit>=1.28.0
+opencv-python-headless>=4.8.0
+ultralytics>=8.0.0
+numpy>=1.24.0
+plotly>=5.17.0
+pandas>=2.0.0
+httpx>=0.25.0
+python-dotenv>=1.0.0
+asyncpg>=0.29.0
