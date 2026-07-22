@@ -1,0 +1,19 @@
+# CitySight — Backend dependencies
+# Python 3.11+
+
+# Computer Vision
+ultralytics>=8.0.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# Web server
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+websockets>=11.0
+
+# Database (optional — falls back gracefully)
+asyncpg>=0.29.0
+
+# Utilities
+python-dotenv>=1.0.0
+httpx>=0.25.0

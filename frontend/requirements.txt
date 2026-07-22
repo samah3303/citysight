@@ -1,0 +1,6 @@
+# CitySight — Frontend dependencies
+streamlit>=1.28.0
+plotly>=5.17.0
+pandas>=2.0.0
+websockets>=11.0
+httpx>=0.25.0
